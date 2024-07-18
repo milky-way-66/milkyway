@@ -1,5 +1,5 @@
 const App = () => {
-    return <div>The weather</div>;
+    return <div>The greet weather</div>;
 };
 
 export default App;
