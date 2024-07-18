@@ -1,2 +1,3 @@
-# milkyway
-milkyway
+# The Milky Way
+
+### The milky way is where i tell story about a guy who so tired about this world there is no way he can stop, everything is new and i still updating it ...
